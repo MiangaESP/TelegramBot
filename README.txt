@@ -2,7 +2,7 @@ ENG:
 
 This little bot for Telegram was made with NodeJS + Express, and webhook(ngrok) for host.
 
-On .env file set telegram bot token and webhook url or else the bot won't work properly
+On .env file set telegram bot token and webhook url or else the bot won't work properly.
 
 
 The bot has four main functionalities, wether it's set on a private chat or a group.
@@ -17,7 +17,7 @@ ESP:
 Este pequeño bot para Telegram se hizo con NodeJS + Express y webhook(ngrok) para el host.
 
 En el archivo .env, ponga el token del bot de Telegram y la URL del webhook o,
-de lo contrario, el bot no funcionará correctamente
+de lo contrario, el bot no funcionará correctamente.
 
 
 El bot tiene cuatro funcionalidades principales, ya sea que esté configurado en un chat 1:1 o en un grupo.
